@@ -2,10 +2,9 @@
 h2 {
             color: rgb(0,245,33);
         }  
-        
+  p{
+              color: rgb(204,20,94);
+}
 body {
-  background-image: url("Background.jpg");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;}
-
+  background-color(196,150,255);
+}
