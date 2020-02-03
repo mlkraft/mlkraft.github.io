@@ -5,5 +5,8 @@ h2 {
         
         body {
   background-image: url("Background.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
 }
 
