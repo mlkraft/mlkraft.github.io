@@ -3,10 +3,8 @@ h2 {
             color: rgb(0,0,0);
         }  
         
-        body {
+body {
   background-image: url("Background.jpg");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: scroll;
+ 
 }
 
